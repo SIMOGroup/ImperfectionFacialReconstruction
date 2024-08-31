@@ -1,4 +1,4 @@
-# ImperfectionFacialReconstruction
+# From Imperfection to Perfection: Advanced 3D Facial Reconstruction Using MICA Models and Self-Supervision Learning
 
 This code is developed on the top of [MICA](https://arxiv.org/pdf/2204.06607) for 3D Face reconstruction, [SwAV](https://arxiv.org/abs/2006.09882) for Self-supervised technique. 
 we thank to their efficient and neat codebase. 
