@@ -53,3 +53,16 @@ Example output during training :
 ```
 INFO - 02/08/23 04:00:35 - 0:03:54 - Epoch: [0][350]    Time 0.612 (0.639)     Data 0.000 (0.006)       Loss 0.0001 (0.0293)    Lr: 0.2047
 ```
+
+## Citation
+
+If you find this work helpful, please kindly consider citing our paper:
+
+```bibtex
+@inproceedings{kong2023lasermix,
+  title = {From Imperfection to Perfection: Advanced 3D Facial Reconstruction Using MICA Models and Self-Supervision Learning},
+  author = {Thinh D. Le, Duong Q. Nguyen, Phuong D. Nguyen, H. Nguyen-Xuan},
+  booktitle = {Computer Modeling in Engineering & Sciences},
+  year = {2024},
+}
+```
